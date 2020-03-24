@@ -1,0 +1,21 @@
+2020-03-03 11:53:22 INFO  root:121 - start server
+2020-03-03 11:55:43 DEBUG root:133 - server accept client
+2020-03-03 11:55:43 DEBUG root:20 - socket create
+2020-03-03 11:55:43 DEBUG root:23 - reader create
+2020-03-03 11:55:43 DEBUG root:25 - writer create
+2020-03-03 11:55:43 DEBUG root:27 - threade start
+2020-03-03 11:55:54 DEBUG root:48 - client send  qwerty
+2020-03-03 11:56:05 DEBUG root:48 - client send  qwerty asdfg
+2020-03-03 11:57:13 DEBUG root:42 - client diconnectSocket[addr=/127.0.0.1,port=52270,localport=5000]
+2020-03-03 11:57:29 DEBUG root:133 - server accept client
+2020-03-03 11:57:29 DEBUG root:20 - socket create
+2020-03-03 11:57:29 DEBUG root:23 - reader create
+2020-03-03 11:57:29 DEBUG root:25 - writer create
+2020-03-03 11:57:29 DEBUG root:27 - threade start
+2020-03-03 12:10:09 DEBUG root:42 - client diconnectSocket[addr=/127.0.0.1,port=52280,localport=5000]
+2020-03-03 12:10:52 DEBUG root:133 - server accept client
+2020-03-03 12:10:52 DEBUG root:20 - socket create
+2020-03-03 12:10:52 DEBUG root:23 - reader create
+2020-03-03 12:10:52 DEBUG root:25 - writer create
+2020-03-03 12:10:52 DEBUG root:27 - threade start
+2020-03-03 12:11:07 DEBUG root:48 - client send  qwerty
